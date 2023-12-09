@@ -1,0 +1,11 @@
+.controls img{
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 100px;
+    border: 15px solid rgb(73, 73, 255);
+    border-radius: 20%  ;
+    transition: transform .5s;
+}
+.controls img:hover{
+    transform: scale(2.0);
+}

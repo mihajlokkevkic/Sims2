@@ -1,0 +1,17 @@
+img{
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+@keyframes color {
+    0%   { background: red}
+    20%  { background: blue }
+    40%  { background: green }
+    60%  { background: yellow }
+    80%  { background: purple}
+    100% { background: orange }
+  }
+  body {
+    background: #ff0000; /* Fallback */
+    animation: color 9s infinite linear;
+  }
