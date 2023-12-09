@@ -1,0 +1,12 @@
+button{
+    margin-top: 10%;
+    margin-left: 700px;
+    width: 100px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(153, 153, 255);
+    height: 70px;
+    border: 5px solid rgb(15, 15, 63);
+    border-radius: 100%;
+
+    
+}

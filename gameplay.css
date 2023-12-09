@@ -1,0 +1,29 @@
+.card1{
+    width: 740px;
+    background-color: rgb(160, 160, 255);
+    overflow: scroll;
+    margin-left: 400px;
+    margin-top: 300px;
+    border: 6px solid  rgb(202, 202, 250) ;
+}
+.card2{
+    width: 740px;
+    background-color: rgb(160, 160, 255);
+    overflow: scroll;
+    margin-left: 400px;
+    margin-top: 300px;
+    border: 6px solid  rgb(202, 202, 250);}
+  
+    .card3{
+        width: 740px;
+        background-color: rgb(160, 160, 255);
+        overflow: scroll;
+        margin-left: 400px;
+        margin-top: 300px;
+        border: 6px solid  rgb(202, 202, 250); }
+        
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
