@@ -1,0 +1,46 @@
+
+body{
+    cursor: url('Nenaslovljeni\ dizajn\ \(1\)-fotor-bg-remover-2023120816352.png'), auto;
+    ;
+}
+.navbar{
+    background-color: rgb(63, 84, 181);
+    display: flex;
+    justify-content: space-between;
+}
+.navbar li{
+    display: inline-block;
+    margin-left: 40px;
+    font-family: fenotype;
+    font-weight: 900;
+    
+
+}
+li:hover{
+    text-decoration: underline;
+}
+.apartmantlife{
+  display: flex;
+  flex-direction: row;
+    background-size: 50% auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: OCR A Std, monospace;
+    font-weight: 900;
+}
+.apartmantlife h1{
+    width: 600px;
+}
+.apartmantlife img {
+    transition: transform .5s;
+  }
+  
+ .apartmantlife img:hover {
+    transform: scale(2.5);
+  }
+a{
+    text-decoration: none;
+}
